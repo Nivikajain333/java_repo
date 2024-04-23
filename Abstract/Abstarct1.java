@@ -1,6 +1,6 @@
 
 // it is herarichal inheritance
-abstract class Aeroplane3
+class Aeroplane3
 {
     public void takeOff()
     {
