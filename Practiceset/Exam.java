@@ -12,14 +12,7 @@ public class Exam
 		System.out.println("percentage of class attend");
 	   float percentage =  (class_attend*100) / class_held ;
      	System.out.println(percentage);
-     	
-     	
-     
-    
-     	
-         
-         
-         if (percentage <60)
+        if (percentage <60)
          {
              System.out.println("you are not allowed");
              System. exit(0); // this is used to succesfully exit from the program
